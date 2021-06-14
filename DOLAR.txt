@@ -1,0 +1,637 @@
+15/11/18 = Compra: 20.317 Venta: 20.317
+
+14/11/18 = Compra: 19.803 Venta: 20.590
+
+13/11/18 = Compra: 19.778 Venta: 20.575
+
+12/11/18 = Compra: 19.699 Venta: 20.438
+
+11/11/18 = Compra: 19.403 Venta: 20.319
+
+10/11/18 = Compra: 19.489 Venta: 20.282
+
+09/11/18 = Compra: 19.474 Venta: 20.267
+
+08/11/18 = Compra: 19.435 Venta: 20.227
+
+07/11/18 = Compra: 19.247 Venta: 20.022
+
+06/11/18 = Compra: 19.223 Venta: 20.002
+
+05/11/18 = Compra: 19.389 Venta: 20.181
+
+04/11/18 = Compra: 19.458 Venta: 20.387
+
+03/11/18 = Compra: 19.458 Venta: 20.387
+
+02/11/18 = Compra: 19.572 Venta: 20.378
+
+01/11/18 = Compra: 19.553 Venta: 20.358
+
+31/10/18 = Compra: 19.591 Venta: 20.394
+
+30/10/18 = Compra: 19.388 Venta: 20.129
+
+29/10/18 = Compra: 19.258 Venta: 20.000
+
+28/10/18 = Compra: 18.748 Venta: 19.578
+
+27/10/18 = Compra: 18.834 Venta: 19.560
+
+26/10/18 = Compra: 18.836 Venta: 19.562
+
+25/10/18 = Compra: 18.884 Venta: 19.615
+
+24/10/18 = Compra: 18.908 Venta: 19.644
+
+23/10/18 = Compra: 18.730 Venta: 19.460
+
+22/10/18 = Compra: 18.742 Venta: 19.472
+
+21/10/18 = Compra: 18.562 Venta: 19.392
+
+20/10/18 = Compra: 18.630 Venta: 19.356
+
+19/10/18 = Compra: 18.611 Venta: 19.337
+
+18/10/18 = Compra: 18.476 Venta: 19.213
+
+17/10/18 = Compra: 18.269 Venta: 18.996
+
+16/10/18 = Compra: 18.233 Venta: 18.963
+
+15/10/18 = Compra: 18.320 Venta: 19.047
+
+14/10/18 = Compra: 18.268 Venta: 19.103
+
+13/10/18 = Compra: 18.363 Venta: 19.093
+
+12/10/18 = Compra: 18.369 Venta: 19.099
+
+11/10/18 = Compra: 18.467 Venta: 19.196
+
+10/10/18 = Compra: 18.526 Venta: 19.261
+
+09/10/18 = Compra: 18.441 Venta: 19.175
+
+08/10/18 = Compra: 18.382 Venta: 19.116
+
+07/10/18 = Compra: 18.259 Venta: 19.095
+
+06/10/18 = Compra: 18.346 Venta: 19.105
+
+05/10/18 = Compra: 18.117 Venta: 18.861
+
+04/10/18 = Compra: 18.444 Venta: 19.197
+
+03/10/18 = Compra: 18.332 Venta: 19.091
+
+02/10/18 = Compra: 18.198 Venta: 19.098
+
+01/10/18 = Compra: 18.141 Venta: 18.883
+
+30/09/18 = Compra: 18.103 Venta: 18.953
+
+29/09/18 = Compra: 18.186 Venta: 18.937
+
+28/09/18 = Compra: 18.191 Venta: 18.942
+
+27/09/18 = Compra: 18.278 Venta: 19.169
+
+26/09/18 = Compra: 18.345 Venta: 19.085
+
+25/09/18 = Compra: 18.394 Venta: 19.131
+
+24/09/18 = Compra: 18.348 Venta: 19.087
+
+23/09/18 = Compra: 18.122 Venta: 19.037
+
+22/09/18 = Compra: 18.210 Venta: 19.011
+
+21/09/18 = Compra: 18.242 Venta: 18.996
+
+20/09/18 = Compra: 18.249 Venta: 19.002
+
+19/09/18 = Compra: 18.207 Venta: 18.974
+
+18/09/18 = Compra: 18.236 Venta: 19.009
+
+17/09/18 = Compra: 18.275 Venta: 19.048
+
+16/09/18 = Compra: 18.219 Venta: 19.092
+
+15/09/18 = Compra: 18.296 Venta: 19.067
+
+14/09/18 = Compra: 18.306 Venta: 19.077
+
+13/09/18 = Compra: 18.347 Venta: 19.116
+
+12/09/18 = Compra: 18.522 Venta: 19.286
+
+11/09/18 = Compra: 18.618 Venta: 19.393
+
+10/09/18 = Compra: 18.636 Venta: 19.430
+
+09/09/18 = Compra: 18.551 Venta: 19.494
+
+08/09/18 = Compra: 18.651 Venta: 19.476
+
+07/09/18 = Compra: 18.461 Venta: 19.217
+
+06/09/18 = Compra: 18.679 Venta: 19.457
+
+05/09/18 = Compra: 18.771 Venta: 19.549
+
+04/09/18 = Compra: 18.739 Venta: 19.508
+
+03/09/18 = Compra: 18.599 Venta: 19.361
+
+02/09/18 = Compra: 18.465 Venta: 19.331
+
+01/09/18 = Compra: 18.543 Venta: 19.306
+
+31/08/18 = Compra: 18.539 Venta: 19.303
+
+30/08/18 = Compra: 18.502 Venta: 19.263
+
+29/08/18 = Compra: 18.394 Venta: 19.164
+
+28/08/18 = Compra: 18.371 Venta: 19.143
+
+27/08/18 = Compra: 18.231 Venta: 18.999
+
+26/08/18 = Compra: 18.250 Venta: 19.133
+
+25/08/18 = Compra: 18.323 Venta: 19.101
+
+24/08/18 = Compra: 18.320 Venta: 19.099
+
+23/08/18 = Compra: 18.312 Venta: 19.092
+
+22/08/18 = Compra: 18.246 Venta: 19.048
+
+21/08/18 = Compra: 18.400 Venta: 19.102
+
+20/08/18 = Compra: 18.472 Venta: 19.174
+
+19/08/18 = Compra: 18.233 Venta: 19.165
+
+18/08/18 = Compra: 18.324 Venta: 19.147
+
+17/08/18 = Compra: 18.410 Venta: 19.146
+
+16/08/18 = Compra: 18.509 Venta: 19.221
+
+15/08/18 = Compra: 18.593 Venta: 19.300
+
+14/08/18 = Compra: 18.444 Venta: 19.158
+
+13/08/18 = Compra: 18.551 Venta: 19.266
+
+12/08/18 = Compra: 18.236 Venta: 19.114
+
+11/08/18 = Compra: 18.284 Venta: 19.060
+
+10/08/18 = Compra: 18.344 Venta: 19.037
+
+09/08/18 = Compra: 18.114 Venta: 18.794
+
+08/08/18 = Compra: 17.980 Venta: 18.658
+
+07/08/18 = Compra: 17.984 Venta: 18.686
+
+06/08/18 = Compra: 18.028 Venta: 18.728
+
+05/08/18 = Compra: 17.957 Venta: 18.846
+
+04/08/18 = Compra: 18.037 Venta: 18.821
+
+03/08/18 = Compra: 18.090 Venta: 18.792
+
+02/08/18 = Compra: 18.121 Venta: 18.820
+
+01/08/18 = Compra: 18.106 Venta: 18.805
+
+31/07/18 = Compra: 18.108 Venta: 18.801
+
+30/07/18 = Compra: 18.063 Venta: 18.760
+
+29/07/18 = Compra: 17.974 Venta: 18.868
+
+28/07/18 = Compra: 18.050 Venta: 18.839
+
+27/07/18 = Compra: 18.116 Venta: 18.821
+
+26/07/18 = Compra: 18.162 Venta: 18.868
+
+25/07/18 = Compra: 18.265 Venta: 18.955
+
+24/07/18 = Compra: 18.400 Venta: 19.092
+
+23/07/18 = Compra: 18.470 Venta: 19.160
+
+22/07/18 = Compra: 18.356 Venta: 19.280
+
+21/07/18 = Compra: 18.446 Venta: 19.255
+
+20/07/18 = Compra: 18.532 Venta: 19.213
+
+19/07/18 = Compra: 18.494 Venta: 19.178
+
+18/07/18 = Compra: 18.377 Venta: 19.065
+
+17/07/18 = Compra: 18.377 Venta: 19.068
+
+16/07/18 = Compra: 18.347 Venta: 19.040
+
+15/07/18 = Compra: 18.270 Venta: 19.153
+
+14/07/18 = Compra: 18.335 Venta: 19.115
+
+13/07/18 = Compra: 18.402 Venta: 19.100
+
+12/07/18 = Compra: 18.437 Venta: 19.128
+
+11/07/18 = Compra: 18.530 Venta: 19.208
+
+10/07/18 = Compra: 18.496 Venta: 19.174
+
+09/07/18 = Compra: 18.648 Venta: 19.320
+
+08/07/18 = Compra: 18.455 Venta: 19.327
+
+07/07/18 = Compra: 18.549 Venta: 19.318
+
+06/07/18 = Compra: 18.614 Venta: 19.303
+
+05/07/18 = Compra: 18.790 Venta: 19.467
+
+04/07/18 = Compra: 19.011 Venta: 19.677
+
+03/07/18 = Compra: 19.118 Venta: 19.799
+
+02/07/18 = Compra: 19.415 Venta: 20.112
+
+01/07/18 = Compra: 19.158 Venta: 20.035
+
+30/06/18 = Compra: 19.249 Venta: 20.023
+
+29/06/18 = Compra: 19.315 Venta: 20.008
+
+28/06/18 = Compra: 19.284 Venta: 19.977
+
+27/06/18 = Compra: 19.561 Venta: 20.250
+
+26/06/18 = Compra: 19.400 Venta: 20.090
+
+25/06/18 = Compra: 19.471 Venta: 20.166
+
+24/06/18 = Compra: 19.403 Venta: 20.291
+
+23/06/18 = Compra: 19.517 Venta: 20.300
+
+22/06/18 = Compra: 19.576 Venta: 20.277
+
+21/06/18 = Compra: 19.763 Venta: 20.465
+
+20/06/18 = Compra: 19.871 Venta: 20.597
+
+19/06/18 = Compra: 20.016 Venta: 20.732
+
+18/06/18 = Compra: 20.051 Venta: 20.764
+
+17/06/18 = Compra: 19.990 Venta: 20.886
+
+16/06/18 = Compra: 20.068 Venta: 20.864
+
+15/06/18 = Compra: 20.127 Venta: 20.844
+
+14/06/18 = Compra: 20.190 Venta: 20.936
+
+13/06/18 = Compra: 20.109 Venta: 20.843
+
+12/06/18 = Compra: 20.062 Venta: 20.795
+
+11/06/18 = Compra: 19.951 Venta: 20.676
+
+10/06/18 = Compra: 19.649 Venta: 20.571
+
+09/06/18 = Compra: 19.739 Venta: 20.558
+
+08/06/18 = Compra: 19.8157 Venta: 20.553
+
+07/06/18 = Compra: 19.897 Venta: 20.631
+
+06/06/18 = Compra: 19.758 Venta: 20.476
+
+05/06/18 = Compra: 19.733 Venta: 20.474
+
+04/06/18 = Compra: 19.428 Venta: 20.160
+
+03/06/18 = Compra: 19.273 Venta: 20.140
+
+02/06/18 = Compra: 19.351 Venta: 20.121
+
+01/06/18 = Compra: 19.393 Venta: 20.086
+
+31/05/18 = Compra: 19.367 Venta: 20.056
+
+30/05/18 = Compra: 19.198 Venta: 19.924
+
+29/05/18 = Compra: 19.203 Venta: 19.926
+
+28/05/18 = Compra: 19.049 Venta: 19.786
+
+27/05/18 = Compra: 18.901 Venta: 19.814
+
+26/05/18 = Compra: 18.990 Venta: 19.802
+
+25/05/18 = Compra: 19.052 Venta: 19.783
+
+24/05/18 = Compra: 19.117 Venta: 19.845
+
+23/05/18 = Compra: 19.190 Venta: 19.898
+
+22/05/18 = Compra: 19.267 Venta: 19.950
+
+21/05/18 = Compra: 19.320 Venta: 20.043
+
+20/05/18 = Compra: 19.175 Venta: 20.084
+
+19/05/18 = Compra: 19.234 Venta: 20.042
+
+18/05/18 = Compra: 19.302 Venta: 20.029
+
+17/05/18 = Compra: 19.147 Venta: 19.861
+
+16/05/18 = Compra: 19.095 Venta: 19.816
+
+15/05/18 = Compra: 19.140 Venta: 19.833
+
+14/05/18 = Compra: 18.982 Venta: 19.666
+
+13/05/18 = Compra: 18.684 Venta: 19.524
+
+12/05/18 = Compra: 18.752 Venta: 19.499
+
+11/05/18 = Compra: 18.826 Venta: 19.498
+
+10/05/18 = Compra: 18.828 Venta: 19.502
+
+09/05/18 = Compra: 19.039 Venta: 19.728
+
+08/05/18 = Compra: 19.006 Venta: 19.689
+
+07/05/18 = Compra: 18.850 Venta: 19.543
+
+06/05/18 = Compra: 18.559 Venta: 19.419
+
+05/05/18 = Compra: 18.622 Venta: 19.386
+
+04/05/18 = Compra: 18.677 Venta: 19.365
+
+03/05/18 = Compra: 17.665 Venta: 18.347
+
+02/05/18 = Compra: 18.501 Venta: 19.180
+
+01/05/18 = Compra: 18.135 Venta: 18.933
+
+30/04/18 = Compra: 18.196 Venta: 18.914
+
+29/04/18 = Compra: 18.036 Venta: 18.918
+
+28/04/18 = Compra: 18.128 Venta: 18.912
+
+27/04/18 = Compra: 18.193 Venta: 18.898
+
+26/04/18 = Compra: 18.339 Venta: 19.039
+
+25/04/18 = Compra: 18.403 Venta: 19.086
+
+24/04/18 = Compra: 18.313 Venta: 18.994
+
+23/04/18 = Compra: 18.280 Venta: 18.962
+
+22/04/18 = Compra: 17.837 Venta: 18.729
+
+21/04/18 = Compra: 17.886 Venta: 18.680
+
+20/04/18 = Compra: 17.956 Venta: 18.670
+
+19/04/18 = Compra: 17.818 Venta: 18.478
+
+18/04/18 = Compra: 17.562 Venta: 18.212
+
+17/04/18 = Compra: 17.553 Venta: 18.200
+
+16/04/18 = Compra: 17.579 Venta: 18.231
+
+15/04/18 = Compra: 17.523 Venta: 18.331
+
+14/04/18 = Compra: 17.591 Venta: 18.309
+
+13/04/18 = Compra: 17.644 Venta: 18.290
+
+12/04/18 = Compra: 17.715 Venta: 18.359
+
+11/04/18 = Compra: 17.777 Venta: 18.433
+
+10/04/18 = Compra: 17.818 Venta: 18.473
+
+09/04/18 = Compra: 17.831 Venta: 18.491
+
+08/04/18 = Compra: 17.678 Venta: 18.492
+
+07/04/18 = Compra: 17.726 Venta: 18.449
+
+06/04/18 = Compra: 17.789 Venta: 18.440
+
+05/04/18 = Compra: 17.690 Venta: 18.347
+
+04/04/18 = Compra: 17.730 Venta: 18.385
+
+03/04/18 = Compra: 17.742 Venta: 18.402
+
+02/04/18 = Compra: 17.797 Venta: 18.455
+
+01/04/18 = Compra: 17.694 Venta: 18.520
+
+31/03/18 = Compra: 17.694 Venta: 18.520
+
+30/03/18 = Compra: 17.694 Venta: 18.520
+
+29/03/18 = Compra: 17.767 Venta: 18.501
+
+28/03/18 = Compra: 17.825 Venta: 18.486
+
+27/03/18 = Compra: 17.876 Venta: 18.546
+
+26/03/18 = Compra: 17.888 Venta: 18.549
+
+25/03/18 = Compra: 17.919 Venta: 18.750
+
+24/03/18 = Compra: 17.984 Venta: 18.723
+
+23/03/18 = Compra: 18.044 Venta: 18.710
+
+22/03/18 = Compra: 18.085 Venta: 18.748
+
+21/03/18 = Compra: 18.022 Venta: 18.728
+
+20/03/18 = Compra: 18.239 Venta: 18.911
+
+19/03/18 = Compra: 18.042 Venta: 18.915
+
+18/03/18 = Compra: 18.040 Venta: 18.913
+
+17/03/18 = Compra: 18.113 Venta: 18.889
+
+16/03/18 = Compra: 18.166 Venta: 18.865
+
+15/03/18 = Compra: 18.182 Venta: 18.842
+
+14/03/18 = Compra: 18.094 Venta: 18.754
+
+13/03/18 = Compra: 18.094 Venta: 18.750
+
+12/03/18 = Compra: 18.088 Venta: 18.789
+
+11/03/18 = Compra: 17.879 Venta: 18.816
+
+10/03/18 = Compra: 17.977 Venta: 18.804
+
+09/03/18 = Compra: 18.075 Venta: 18.778
+
+08/03/18 = Compra: 18.193 Venta: 18.866
+
+07/03/18 = Compra: 18.277 Venta: 18.927
+
+06/03/18 = Compra: 18.270 Venta: 18.937
+
+05/03/18 = Compra: 18.353 Venta: 19.033
+
+04/03/18 = Compra: 18.240 Venta: 19.088
+
+03/03/18 = Compra: 18.309 Venta: 19.062
+
+02/03/18 = Compra: 18.367 Venta: 19.045
+
+01/03/18 = Compra: 18.363 Venta: 19.034
+
+28/02/18 = Compra: 18.256 Venta: 18.974
+
+27/02/18 = Compra: 18.236 Venta: 18.907
+
+26/02/18 = Compra: 18.151 Venta: 18.822
+
+25/02/18 = Compra: 17.956 Venta: 18.796
+
+24/02/18 = Compra: 18.034 Venta: 18.781
+
+23/02/18 = Compra: 18.086 Venta: 18.758
+
+22/02/18 = Compra: 18.178 Venta: 18.846
+
+21/02/18 = Compra: 18.197 Venta: 18.867
+
+20/02/18 = Compra: 18.146 Venta: 18.812
+
+19/02/18 = Compra: 18.012 Venta: 18.697
+
+18/02/18 = Compra: 17.867 Venta: 18.711
+
+17/02/18 = Compra: 17.939 Venta: 18.689
+
+16/02/18 = Compra: 17.999 Venta: 18.674
+
+15/02/18 = Compra: 18.022 Venta: 18.700
+
+14/02/18 = Compra: 17.190 Venta: 17.862
+
+13/02/18 = Compra: 18.159 Venta: 18.842
+
+12/02/18 = Compra: 18.180 Venta: 18.861
+
+11/02/18 = Compra: 18.177 Venta: 19.030
+
+10/02/18 = Compra: 18.255 Venta: 19.014
+
+09/02/18 = Compra: 18.301 Venta: 18.984
+
+08/02/18 = Compra: 18.312 Venta: 18.951
+
+07/02/18 = Compra: 18.190 Venta: 18.874
+
+06/02/18 = Compra: 18.151 Venta: 18.809
+
+05/02/18 = Compra: 17.934 Venta: 18.765
+
+04/02/18 = Compra: 17.914 Venta: 18.745
+
+03/02/18 = Compra: 17.968 Venta: 18.707
+
+02/02/18 = Compra: 18.034 Venta: 18.699
+
+01/02/18 = Compra: 17.971 Venta: 18.641
+
+31/01/18 = Compra: 18.138 Venta: 18.814
+
+30/01/18 = Compra: 18.174 Venta: 18.847
+
+29/01/18 = Compra: 18.070 Venta: 18.753
+
+28/01/18 = Compra: 17.878 Venta: 18.743
+
+27/01/18 = Compra: 17.944 Venta: 18.714
+
+26/01/18 = Compra: 18.001 Venta: 18.694
+
+25/01/18 = Compra: 18.033 Venta: 18.727
+
+24/01/18 = Compra: 18.074 Venta: 18.760
+
+23/01/18 = Compra: 18.247 Venta: 18.929
+
+22/01/18 = Compra: 18.164 Venta: 18.849
+
+21/01/18 = Compra: 17.998 Venta: 18.848
+
+20/01/18 = Compra: 18.069 Venta: 18.824
+
+19/01/18 = Compra: 18.122 Venta: 18.802
+
+18/01/18 = Compra: 18.164 Venta: 18.832
+
+17/01/18 = Compra: 18.225 Venta: 18.900
+
+16/01/18 = Compra: 18.311 Venta: 18.991
+
+15/01/18 = Compra: 18.371 Venta: 19.052
+
+14/01/18 = Compra: 18.445 Venta: 19.293
+
+13/01/18 = Compra: 18.550 Venta: 19.299
+
+12/01/18 = Compra: 18.616 Venta: 19.252
+
+11/01/18 = Compra: 18.800 Venta: 19.431
+
+10/01/18 = Compra: 18.817 Venta: 19.443
+
+09/01/18 = Compra: 18.779 Venta: 19.407
+
+08/01/18 = Compra: 18.764 Venta: 19.396
+
+07/01/18 = Compra: 18.646 Venta: 19.428
+
+06/01/18 = Compra: 18.713 Venta: 19.408
+
+05/01/18 = Compra: 18.771 Venta: 19.397
+
+04/01/18 = Compra: 18.834 Venta: 19.462
+
+03/01/18 = Compra: 18.942 Venta: 19.571
+
+02/01/18 = Compra: 19.065 Venta: 19.711
+
+01/01/18 = Compra: 19.056 Venta: 19.866
